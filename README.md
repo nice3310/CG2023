@@ -10,7 +10,8 @@ https://github.com/nice3310/CG2023
 
 ## 🎥 Demo
 
-<video src="a.mp4" controls width="600"></video>
+![Demo](assets/normal.gif)
+![Demo](assets/sprint.gif)
 
 ---
 
