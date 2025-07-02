@@ -1,16 +1,13 @@
 
-# Magikarp Swimmer – Computer Graphics Final Project
+# Magikarp Swimmer – Computer Graphics Project
 
-A third-person swimming demo featuring **Magikarp**, implemented as the final homework assignment for a computer graphics course.  
-This project focuses on practicing **OBJ model loading**, **OpenGL shaders**, and **instanced rendering** techniques.
-
-https://github.com/nice3310/CG2023
+A third-person swimming demo featuring **Magikarp**, This project focuses on practicing **OBJ model loading**, **OpenGL shaders**, and **instanced rendering** techniques.
 
 ---
 
 ## 🎥 Demo
 
-<video src="a.mp4" controls width="600"></video>
+<video src="assets/demo.mp4" controls width="600"></video>
 
 ---
 
@@ -70,15 +67,6 @@ https://github.com/nice3310/CG2023
 > ⚠️ Note: Debug binaries are not included to reduce repository size
 
 ---
-
-## 📝 Notes
-
-- This project was built as a summary of skills learned throughout the semester.
-- Most technical features were designed to be both visually rich and efficient using OpenGL.
-- Water caustics and height-mapped seabed were not implemented due to time constraints, but considered for future extension.
-
----
-
 ## 📚 Technologies Used
 
 - C++
@@ -88,7 +76,3 @@ https://github.com/nice3310/CG2023
 - OBJ Model Loader (custom)
 
 ---
-
-## 🙏 Acknowledgments
-
-Thanks to the course instructor for designing such a fun and engaging final assignment!
