@@ -7,12 +7,11 @@ A third-person swimming demo featuring **Magikarp**, This project focuses on pra
 
 ## 🎥 Demo
 
-<<<<<<< HEAD
 ![Demo](assets/normal.gif)
+
 ![Demo](assets/sprint.gif)
-=======
+
 <video src="assets/demo.mp4" controls width="600"></video>
->>>>>>> befdd527b40ec1340ffa4a1acf3331fdfafdee38
 
 ---
 
